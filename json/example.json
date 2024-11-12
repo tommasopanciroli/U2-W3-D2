@@ -1,0 +1,14 @@
+{
+    "firstName": "Mario",
+    "lastName": "Rossi",
+    "age": 20,
+    "drivingLicense": true,
+    "languages": [
+        "JS",
+        "Python"
+    ],
+    "area": {
+        "country": "Italy",
+        "city": "Rome"
+    }
+}
