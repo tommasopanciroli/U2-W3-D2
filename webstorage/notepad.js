@@ -65,3 +65,4 @@ resetButton.addEventListener('click', function () {
     thirdAlert.classList.add('d-none')
   }, 2000)
 })
+
